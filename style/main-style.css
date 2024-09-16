@@ -1,0 +1,18 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: #ffffff;
+}
+
+h1 {
+    margin: 10px;
+    font-size: 3em;
+    text-align: center;
+}
+
+#coming-soon {
+    font-size: 2em;
+    text-align: center;
+    margin: 3em auto;
+}
